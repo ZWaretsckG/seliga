@@ -2,4 +2,23 @@ body{
     background-color: blue;
     text-align: ;
     color: limegreen;
-}
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+    
+
+
+    color: green;
+    font-size: 20px;
+
+
+    #lista
+    background-color: chartreuse;
+     text-align: center;
+     font-size: 24px;
+     color: blueviolet;
+
+    
+
+
+
